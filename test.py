@@ -31,3 +31,5 @@ else:
 print(int('1')) # 1
 print(float(1)) # 1.0
 print(str(13)) # 13
+
+print(str1[2]) # e
